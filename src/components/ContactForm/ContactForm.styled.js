@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { Form as FormikForm, Field, ErrorMessage as FormikErrorMessage } from 'formik';
 
 export const FormContact = styled(FormikForm)`
-  padding: 15px 32px;
+  padding: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
