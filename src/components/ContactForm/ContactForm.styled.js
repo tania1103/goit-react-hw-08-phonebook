@@ -7,8 +7,8 @@ export const FormContact = styled(FormikForm)`
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* додано тінь */
-  background-color: #1d1d1d; /* темний фон */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  background-color:rgb(81 62 34 / 64%);
 `;
 
 export const Container = styled.div`
@@ -21,7 +21,7 @@ export const Container = styled.div`
   align-items: center;
   justify-content: space-between;
 
-  width: 100%;
+  width: 50%;
 
   @media screen and (min-width: 768px) {
     flex-direction: row;

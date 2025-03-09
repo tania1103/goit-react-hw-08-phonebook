@@ -15,7 +15,7 @@ export const Button = styled.button`
   padding: 10px 12px;
   text-decoration: none;
   margin: 15px 0;
-  color: #dcdcdc;
+  color: rgb(42 39 39);
 
   &:hover {
     background: linear-gradient(to bottom, #212121 5%, #ededed 100%);

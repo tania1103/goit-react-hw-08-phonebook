@@ -23,7 +23,7 @@ export const Input = styled.input`
   margin: 10px 0;
   padding: 15px;
   font-size: 20px;
-  color: #dcdcdc; /* темний колір тексту */
+  color: #dcdcdc;
 
   &:focus-visible {
     border-radius: 4px;
