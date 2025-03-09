@@ -17,7 +17,7 @@
   margin: 10px 0;
   padding: 15px;
   font-size: 20px;
-  color: #dcdcdc; /* темний колір тексту */
+  color: #dcdcdc;
 
   &:focus-visible {
     border-radius: 4px;
@@ -45,4 +45,4 @@
     color: #ffffff;
   }
 `;var p=n(579);const f=()=>{const e=(0,d.wA)();return(0,p.jsxs)(s,{onSubmit:o=>{o.preventDefault();const n=o.currentTarget;e((0,t.E8)({email:n.elements.email.value,password:n.elements.password.value})),n.reset()},autoComplete:"off",children:[(0,p.jsxs)(a,{children:["Email",(0,p.jsx)(l,{type:"email",name:"email"})]}),(0,p.jsxs)(a,{children:["Password",(0,p.jsx)(l,{type:"password",name:"password"})]}),(0,p.jsx)(c,{type:"submit",children:"Log In"})]})};function x(){return(0,p.jsxs)("div",{children:[(0,p.jsx)(r.m,{children:(0,p.jsx)("title",{children:"Login"})}),(0,p.jsx)(f,{})]})}}}]);
-//# sourceMappingURL=160.9de0626c.chunk.js.map
+//# sourceMappingURL=160.c120f28d.chunk.js.map
